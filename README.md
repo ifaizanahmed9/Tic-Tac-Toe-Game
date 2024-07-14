@@ -12,7 +12,7 @@ A simple Tic Tac Toe game built with HTML, CSS, and JavaScript.
 * License
 
 
-**Introduction**
+**Introduction:**
 This is a basic implementation of the classic Tic Tac Toe game, designed to be played in the browser. It allows two players to play against each other on the same device.
 
 **Features**
