@@ -36,16 +36,16 @@ This is a basic implementation of the classic Tic Tac Toe game, designed to be p
 
 **Setup and Installation**
 - Clone the repository:
-bash
+**bash**
 
 - Copy code
-git clone https://github.com/yourusername/tic-tac-toe.git
+**git clone https://github.com/yourusername/tic-tac-toe.git**
 
 - Navigate to the project directory:
-bash
+**bash**
 
 - Copy code
-cd tic-tac-toe
+**cd tic-tac-toe**
 
 - Open the index.html file in your browser to start the game.
 
