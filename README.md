@@ -39,7 +39,7 @@ This is a basic implementation of the classic Tic Tac Toe game, designed to be p
 **bash**
 
 - Copy code
-**git clone https://github.com/yourusername/tic-tac-toe.git**
+
 
 - Navigate to the project directory:
 **bash**
